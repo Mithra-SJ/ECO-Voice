@@ -1,0 +1,12 @@
+# PlatformIO folders
+.pio/
+.vscode/
+*.bin
+*.elf
+
+# Wokwi private files
+wokwi.license
+
+# System files
+.DS_Store
+Thumbs.db
